@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name arduino)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/arduino.lib)(options "")(descr ""))
+)
